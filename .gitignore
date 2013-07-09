@@ -2,3 +2,11 @@ build
 *.lo
 *.so
 *.swp
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+docs/
+install_manifest.txt
+zmq.nobj.c
+zmq.nobj.ffi.lua
